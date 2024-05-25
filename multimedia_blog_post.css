@@ -1,0 +1,15 @@
+body {
+    background-color: rgb(232, 220, 242);
+    text-align: center;
+}
+iframe {
+    width: 70%;
+    padding: 20px;
+}
+img {
+    height: auto;
+}
+video {
+    padding: auto;
+
+}
